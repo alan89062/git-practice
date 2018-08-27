@@ -1,7 +1,4 @@
 test
-testtest
-testtest
-testtest
 testnotcommit
 testnotcommit
 testnotcommit
